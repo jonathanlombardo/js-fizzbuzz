@@ -34,22 +34,26 @@
 
 /* ---------------------------------------- */
 
+body {
+  background-color: #083b4c;
+}
+
 .box {
-  width: 80px;
-  height: 80px;
-  line-height: 80px;
+  width: 150px;
+  height: 150px;
+  line-height: 150px;
   text-align: center;
-  background-color: skyblue;
+  background-color: #1389b2;
 }
 
 .box.red {
-  background-color: red;
+  background-color: #f0466f;
 }
 
 .box.green {
-  background-color: green;
+  background-color: #0cd6a1;
 }
 
 .box.yellow {
-  background-color: yellow;
+  background-color: #ffd166;
 }
