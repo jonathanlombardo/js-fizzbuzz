@@ -79,15 +79,15 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
   - Dichiaro una variabile boxType
 
   - SE il counter è multiplo di 3 e 5
-    - Setto boxType su FizzBuzz
-    - Setto boxText su red
+    - Setto boxText su FizzBuzz
+    - Setto boxType su red
   - Altrimenti SE il counter è multiplo di 3
-    - Setto boxType su Fizz
-    - Setto boxText su green
+    - Setto boxText su Fizz
+    - Setto boxType su green
   - Altrimenti SE il counter è multiplo di 5
 
-    - Setto boxType su Buzz
-    - Setto boxText su yellow
+    - Setto boxText su Buzz
+    - Setto boxType su yellow
 
   - Setto l'innerText del box su boxText
   - Appendo al box una classe boxType
