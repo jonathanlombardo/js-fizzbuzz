@@ -1,11 +1,9 @@
-console.log("JS OK");
-
 const boxContainerElement = document.getElementById("boxContainer");
 
 for (let i = 1; i <= 100; i++) {
   const boxElement = document.createElement("div");
   let boxText = i;
-  let boxType;
+  let boxType = "";
 
   if (i % 3 == 0 && i % 5 == 0) {
     boxText = "FizzBuzz";
