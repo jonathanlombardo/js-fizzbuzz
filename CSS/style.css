@@ -33,3 +33,10 @@
 }
 
 /* ---------------------------------------- */
+
+.box {
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  text-align: center;
+}
